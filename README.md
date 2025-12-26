@@ -1,4 +1,5 @@
 Dataset used in our tests:
+
 [Jazz]P. M. GLEISER and L. DANON, “COMMUNITY STRUCTURE IN JAZZ,” Advances in Complex Systems, vol. 06, no. 04, pp. 565–573, Dec. 2003, doi: https://doi.org/10.1142/s0219525903001067. 
 
 [c.elegans, florida bay, power-494-bus]R. Rossi and N. Ahmed, “The Network Data Repository with Interactive Graph Analytics and Visualization,” Proceedings of the AAAI Conference on Artificial Intelligence, vol. 29, no. 1, Mar. 2015, doi: https://doi.org/10.1609/aaai.v29i1.9277.
